@@ -2,7 +2,6 @@
 
 # 📱 WhatsApp Web Clone With React 📱
 
-(EN)  
 ######
 Do you want to create your own web-based messaging app that looks and feels like WhatsApp? If so, you should check out this amazing project by tugrulhanterzi. This project is a clone of the WhatsApp web version, which allows users to send and receive messages, images, videos, and voice notes on their browsers. It uses React, Firebase, and Material UI to create a responsive and user-friendly interface.
 
